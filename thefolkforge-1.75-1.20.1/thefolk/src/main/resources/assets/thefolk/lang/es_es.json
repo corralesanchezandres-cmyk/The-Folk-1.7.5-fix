@@ -1,0 +1,10 @@
+{
+  "entity.thefolk.the_folk": "The Folk",
+  "entity.thefolk.the_thing": "The Thing",
+  "entity.thefolk.the_man": "Man",
+  "item.thefolk.folkconfig": "FolkConfig",
+  "item.thefolk.reaper": "Segador",
+  "item.thefolk.reaper.desc": "Ralentiza y confunde a The Folk, The Thing y Man durante 3 segundos.",
+  "item.thefolk.paralyzer": "Paralizador",
+  "item.thefolk.paralyzer.desc": "Clic derecho: paraliza a lo que apuntes durante 2 segundos."
+}

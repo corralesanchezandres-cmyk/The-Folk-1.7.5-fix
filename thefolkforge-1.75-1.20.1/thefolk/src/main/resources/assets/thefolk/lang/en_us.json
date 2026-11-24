@@ -1,0 +1,10 @@
+{
+  "entity.thefolk.the_folk": "The Folk",
+  "entity.thefolk.the_thing": "The Thing",
+  "entity.thefolk.the_man": "Man",
+  "item.thefolk.folkconfig": "FolkConfig",
+  "item.thefolk.reaper": "Reaper",
+  "item.thefolk.reaper.desc": "Slows and confuses The Folk, The Thing and Man for 3 seconds.",
+  "item.thefolk.paralyzer": "Paralyzer",
+  "item.thefolk.paralyzer.desc": "Right click: paralyzes what you aim at for 2 seconds."
+}
